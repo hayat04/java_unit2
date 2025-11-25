@@ -32,7 +32,6 @@ p.accessPrivateInsideClass(); // Correct
 // p.age; // Error if uncommented
 // p.showPrivate(); // Error if uncommented
 // Protected: Accessible (same package)
-
 System.out.println(p.city);
 p.showProtected();
 // Default: Accessible (same package)
